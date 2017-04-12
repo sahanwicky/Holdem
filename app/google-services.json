@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "571325136147-c9ons1dg9kqgoh7m5g6vugips3ng73e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chavin.holdem",
+            "certificate_hash": "56e40cae4edeb50d9a7017b9ea986751ee7eef5d"
+          }
+        },
+        {
           "client_id": "571325136147-bcvsnvfk5buq3oe1q2iiou096v0rhd15.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571325136147-bcvsnvfk5buq3oe1q2iiou096v0rhd15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
